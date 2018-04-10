@@ -1,0 +1,11 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "pbnismtpdemo2017.pbl" "";
+@end;
+@begin Objects 
+ "pbnismtpdemo2017.sra" "pbnismtpdemo2017.pbl";
+ "p_32bit.srj" "pbnismtpdemo2017.pbl";
+ "p_64bit.srj" "pbnismtpdemo2017.pbl";
+ "n_cpp_smtp.sru" "pbnismtpdemo2017.pbl";
+ "w_main.srw" "pbnismtpdemo2017.pbl";
+@end;
